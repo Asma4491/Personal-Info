@@ -12,7 +12,7 @@ The objective of the PersonalInfo project is to create a program that prompts th
 
 4.Handling User Choices: Ensuring that the user could only input **"yes"** or **"no"** to continue or exit the program. This was managed by a loop that repeatedly prompts for input until a valid response is provided.
 
-#Instructions
+# Instructions
 
 1.Compile and Run: Compile the program using a C++ compiler and run the executable.
 2.Input Data: Enter the requested information when prompted. Ensure the name contains only letters, the age is a positive integer, and the salary is a non-negative float.
